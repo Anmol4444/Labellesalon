@@ -1,0 +1,25 @@
+@mixin btn{
+   background: #5A564F;
+    color: white;
+    padding: 20px;
+ 
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 20px;
+    background-color: $main-color;
+    a{
+        color: white;
+        text-decoration: none;
+        line-height: 2px;
+        
+
+    }
+    &:hover{
+        background:$white;
+        a{
+            color: black;
+        }
+
+    }
+        
+}

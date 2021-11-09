@@ -1,0 +1,19 @@
+.btn {
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+  width: 100px;
+  border-radius: 3px;
+  color: #fff;
+  font-weight: 400;
+  margin: auto;
+  background-color: #de3370;
+}
+
+.btn a {
+  font-size: 12px;
+}
+
+h4 {
+  font-family: 'Dancing Script', cursive;
+}
+/*# sourceMappingURL=common.css.map */
